@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/binary_exponentiation.dir/main.cpp.o -o binary_exponentiation.exe -Wl,--out-implib,libbinary_exponentiation.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

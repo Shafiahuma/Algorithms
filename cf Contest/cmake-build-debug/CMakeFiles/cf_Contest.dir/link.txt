@@ -1,0 +1,2 @@
+/usr/bin/ar.exe qc libcf_Contest.a CMakeFiles/cf_Contest.dir/library.cpp.o
+/usr/bin/ranlib.exe libcf_Contest.a

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/spoj_just_add_it.dir/main.cpp.o -o spoj_just_add_it.exe -Wl,--out-implib,libspoj_just_add_it.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

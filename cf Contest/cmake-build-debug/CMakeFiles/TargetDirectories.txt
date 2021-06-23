@@ -1,0 +1,3 @@
+/cygdrive/d/Users/snhum/cf Contest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/Users/snhum/cf Contest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/Users/snhum/cf Contest/cmake-build-debug/CMakeFiles/cf_Contest.dir

@@ -1,0 +1,3 @@
+/cygdrive/d/Users/snhum/mid_exam(CSE-2422)/01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/Users/snhum/mid_exam(CSE-2422)/01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/Users/snhum/mid_exam(CSE-2422)/01/cmake-build-debug/CMakeFiles/01.dir
