@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/reverse_number.dir/main.cpp.o -o reverse_number.exe -Wl,--out-implib,libreverse_number.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

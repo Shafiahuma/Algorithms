@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/prime_check.dir/main.cpp.o -o prime_check.exe -Wl,--out-implib,libprime_check.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

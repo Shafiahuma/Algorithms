@@ -1,0 +1,3 @@
+/cygdrive/d/Users/snhum/uva/10235/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/Users/snhum/uva/10235/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/Users/snhum/uva/10235/cmake-build-debug/CMakeFiles/10235.dir
